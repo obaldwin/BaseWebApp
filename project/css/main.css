@@ -3,9 +3,10 @@ body {
 }
 
 h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Laila', sans-serif;
   font-size: 50px;
   text-transform: uppercase;
+  color: "#17912d"
 }
 
 h4 {
